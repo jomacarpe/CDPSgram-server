@@ -9,7 +9,7 @@ photo_id: {
 
 */
 
-var photos_url = "http://10.1.2.2:8000"
+var photos_url = "http://10.1.2.2:80"
 
 exports.photos = {
 	1: {
